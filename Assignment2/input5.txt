@@ -1,0 +1,6 @@
+T1 a b c e a b
+T2 b d f
+T3 a c d f
+T4 d f g
+T5 c d e
+T6 g c
